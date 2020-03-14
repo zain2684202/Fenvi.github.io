@@ -2571,7 +2571,7 @@ section.lazy-placeholder:after {
 .cid-rO7JuY1Aiq .price-figure {
   font-weight: 700;
   color: #232323;
-  text-align: center;
+  text-align: left;
 }
 .cid-rO7JuY1Aiq .price-value {
   font-weight: 700;
@@ -2583,11 +2583,10 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rO7JuY1Aiq .plan-title {
-  color: #232323;
+  color: #ff0000;
 }
 .cid-rO7JuY1Aiq SPAN {
-  text-align: center;
-  color: #232323;
+  text-align: left;
 }
 .cid-rO7JuY1Aiq UL {
   color: #232323;
