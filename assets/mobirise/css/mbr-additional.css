@@ -2525,15 +2525,15 @@ section.lazy-placeholder:after {
 .cid-rO7IWQfXu9 P {
   color: #073b4c;
 }
-.cid-rO7JuY1Aiq {
+.cid-rTdTHskRwQ {
   padding-top: 90px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #ffffff, #ffffff);
 }
-.cid-rO7JuY1Aiq .list-group-item {
+.cid-rTdTHskRwQ .list-group-item {
   padding: .75rem 3.25rem;
 }
-.cid-rO7JuY1Aiq .plan {
+.cid-rTdTHskRwQ .plan {
   word-break: break-word;
   position: relative;
   max-width: 300px;
@@ -2541,14 +2541,13 @@ section.lazy-placeholder:after {
   padding-left: 0;
   color: #767676;
 }
-.cid-rO7JuY1Aiq .plan .list-group-item {
+.cid-rTdTHskRwQ .plan .list-group-item {
   position: relative;
   -webkit-justify-content: center;
   justify-content: center;
-  background-color: transparent;
   border: 0;
 }
-.cid-rO7JuY1Aiq .plan .list-group-item::after {
+.cid-rTdTHskRwQ .plan .list-group-item::after {
   position: absolute;
   bottom: 0;
   left: 20%;
@@ -2557,39 +2556,35 @@ section.lazy-placeholder:after {
   content: "";
   background-color: #eaeaea;
 }
-.cid-rO7JuY1Aiq .plan .list-group-item:last-child::after {
+.cid-rTdTHskRwQ .plan .list-group-item:last-child::after {
   display: none;
 }
-.cid-rO7JuY1Aiq .plan.favorite {
-  background-color: #fff;
-  box-shadow: 0 0 60px 0 rgba(0, 0, 0, 0.07);
-}
-.cid-rO7JuY1Aiq .plan-header {
+.cid-rTdTHskRwQ .plan-header {
   padding-left: 1rem;
   padding-right: 1rem;
 }
-.cid-rO7JuY1Aiq .price-figure {
+.cid-rTdTHskRwQ .plan-header,
+.cid-rTdTHskRwQ .plan-body {
+  background-color: #fff;
+}
+.cid-rTdTHskRwQ .price-figure {
   font-weight: 700;
   color: #232323;
-  text-align: left;
 }
-.cid-rO7JuY1Aiq .price-value {
+.cid-rTdTHskRwQ .price-value {
   font-weight: 700;
   vertical-align: top;
 }
 @media (max-width: 550px) {
-  .cid-rO7JuY1Aiq .price-figure {
+  .cid-rTdTHskRwQ .price-figure {
     font-size: 4.25rem;
   }
 }
-.cid-rO7JuY1Aiq .plan-title {
-  color: #ff0000;
-}
-.cid-rO7JuY1Aiq SPAN {
-  text-align: left;
-}
-.cid-rO7JuY1Aiq UL {
+.cid-rTdTHskRwQ UL {
   color: #232323;
+}
+.cid-rTdTHskRwQ .plan-title {
+  color: #073b4c;
 }
 .cid-rO7NN9btdF {
   padding-top: 30px;
