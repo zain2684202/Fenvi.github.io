@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans+JP:100,300,400,500,700,900&display=swap);
 
 
 
@@ -8,7 +8,7 @@ body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
   font-size: 4.25rem;
   font-display: swap;
 }
@@ -16,7 +16,7 @@ body {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
   font-size: 3rem;
   font-display: swap;
 }
@@ -24,7 +24,7 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
   font-size: 1rem;
   font-display: swap;
 }
@@ -32,7 +32,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
   font-size: 1.5rem;
   font-display: swap;
 }
@@ -40,7 +40,7 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
   font-size: 1.25rem;
   font-display: swap;
 }
@@ -546,7 +546,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
   font-size: 1.25rem;
   font-display: swap;
 }
@@ -3136,7 +3136,7 @@ section.lazy-placeholder:after {
 .cid-rNUqJSPMSc {
   padding-top: 120px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/back-vertical-1900x9503.png");
+  background-image: url("../../../assets/images/back-vertical-1900x9500.png");
 }
 .cid-rNUqJSPMSc H2 {
   text-align: center;
@@ -3292,7 +3292,7 @@ section.lazy-placeholder:after {
 .cid-rNUr5G2jUL {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/back-vertical-1900x9503.png");
+  background-image: url("../../../assets/images/back-vertical-1900x9500.png");
 }
 .cid-rNUr5G2jUL H2 {
   text-align: center;
@@ -3719,7 +3719,7 @@ section.lazy-placeholder:after {
 .cid-rNUsy8FTTC {
   padding-top: 120px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/back-vertical-1900x9503.png");
+  background-image: url("../../../assets/images/back-vertical-1900x9500.png");
 }
 .cid-rNUsy8FTTC H2 {
   text-align: center;
@@ -3875,7 +3875,7 @@ section.lazy-placeholder:after {
 .cid-rNUt57PbVZ {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/back-vertical-1900x9503.png");
+  background-image: url("../../../assets/images/back-vertical-1900x9500.png");
 }
 .cid-rNUt57PbVZ H2 {
   text-align: center;
@@ -4302,7 +4302,7 @@ section.lazy-placeholder:after {
 .cid-rO7usZjTHY {
   padding-top: 120px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/back-vertical-1900x9503.png");
+  background-image: url("../../../assets/images/back-vertical-1900x9500.png");
 }
 .cid-rO7usZjTHY H2 {
   text-align: center;
@@ -4460,7 +4460,7 @@ section.lazy-placeholder:after {
 .cid-rO7vQfGChg {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/back-vertical-1900x9503.png");
+  background-image: url("../../../assets/images/back-vertical-1900x9500.png");
 }
 .cid-rO7vQfGChg H2 {
   text-align: center;
@@ -4887,7 +4887,7 @@ section.lazy-placeholder:after {
 .cid-rO7tZjYya4 {
   padding-top: 120px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/back-vertical-1900x9503.png");
+  background-image: url("../../../assets/images/back-vertical-1900x9500.png");
 }
 .cid-rO7tZjYya4 H2 {
   text-align: center;
@@ -5040,7 +5040,7 @@ section.lazy-placeholder:after {
 .cid-rO7B9d3UDN {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/back-vertical-1900x9503.png");
+  background-image: url("../../../assets/images/back-vertical-1900x9500.png");
 }
 .cid-rO7B9d3UDN H2 {
   text-align: center;
@@ -5467,7 +5467,7 @@ section.lazy-placeholder:after {
 .cid-rO7kXKMZ9I {
   padding-top: 120px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/back-vertical-1900x9503.png");
+  background-image: url("../../../assets/images/back-vertical-1900x9500.png");
 }
 .cid-rO7kXKMZ9I H2 {
   text-align: center;
@@ -5881,7 +5881,7 @@ section.lazy-placeholder:after {
 .cid-rO7IlZoFtY {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/back-vertical-1900x9503.png");
+  background-image: url("../../../assets/images/back-vertical-1900x9500.png");
 }
 .cid-rO7IlZoFtY H2 {
   text-align: center;
